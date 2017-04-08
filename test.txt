@@ -1,1 +1,2 @@
-Hello! Xin caho GitHub.
+Hello! Xin chào GitHub.
+Đây là PR từ B (truonqndn@gmail.com) tới A.
